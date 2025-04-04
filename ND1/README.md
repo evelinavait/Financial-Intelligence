@@ -72,7 +72,6 @@ def generate_data(num_points):
     return data
 ```
 
-- Sessions are created from minute, tick (E-Mini S&P 500 Mar 24 (ES=F)) data for the period 2024-02-13 - 2024-02-16;
-
-- From the prices of wheat/corn or similar, it is calculated how prices change over the year (10 years of data are taken, each year is superimposed on the other and the average price change over the year on different days is calculated).
+- Sessions are created from minute, tick (E-Mini S&P 500 Mar 24 (ES=F)) data for the period 2024-02-13 - 2024-02-16 ([📁 images](https://github.com/evelinavait/Financial-Intelligence/tree/76480a4fa3dc1609179c899a7eb0b64abf95c1fa/ND1/images) `trading_sessions.png`);
+- From the prices of wheat/corn or similar, it is calculated how prices change over the year (10 years of data are taken, each year is superimposed on the other and the average price change over the year on different days is calculated) ([📁 images](https://github.com/evelinavait/Financial-Intelligence/tree/76480a4fa3dc1609179c899a7eb0b64abf95c1fa/ND1/images) `wheat_futures.png`).
 
