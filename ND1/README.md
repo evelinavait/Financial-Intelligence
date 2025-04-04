@@ -48,7 +48,7 @@ The Python code `Finansinis_intelektas_ND1_E_Vaitkeviciute.ipynb` implements:
   
 - Performing simple tasks using the `numpy` and `pandas` libraries;
 
-- Displaying the tick data `'EURUSD-2023-04.csv'' and the daily data `'daily_data_AAPL.csv'' using the `read_data` function:
+- Displaying the tick data `'EURUSD-2023-04.csv'' and the daily data `'daily_data_AAPL.csv'` using the `read_data` function:
 
 ```python
 read_data('EURUSD-2023-04.csv')
