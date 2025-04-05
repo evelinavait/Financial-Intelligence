@@ -2,7 +2,7 @@
 [English below]
 
 ## 3. Prekybinės strategijos parašymas Python aplinkoje
-Šiame aplankale pateikiama Python programinis kodas bei duomenys. Įgyvendinama prieškryptinė strategija (mean reversion) - Bollinger Bands indikatorius, t. y. sukuriama prekybos sistema bei simuliacija, įtraukiant visus prekybos kaštus, taip pat atliekama optimizacija - randami geriausi parametrų rinkiniai.
+Šiame aplankale pateikiama Python programinis kodas `Finansinis_intelektas_ND3_E_Vaitkeviciute.ipynb` bei duomenys `META.csv`. Įgyvendinama prieškryptinė strategija (mean reversion) - Bollinger Bands indikatorius, t. y. sukuriama prekybos sistema bei simuliacija, įtraukiant visus prekybos kaštus, taip pat atliekama optimizacija - randami geriausi parametrų rinkiniai.
 
 Galutinis prieškryptinės strategijos variantas realizuojamas, naudojant:
 
@@ -53,7 +53,7 @@ for window in window_range:
 
 -------------
 ## 3. Writing a trading strategy in Python
-This folder contains Python code and data. Implementing a mean reversion strategy - Bollinger Bands indicator, i.e. creating a trading system and simulation, including all trading costs, and optimising it by finding the best parameter sets.
+This folder contains Python code `Finansinis_intelektas_ND3_E_Vaitkeviciute.ipynb` and data `META.csv`. Here, a mean reversion strategy is implemented using the Bollinger Bands indicator, i.e. a trading system and a simulation are created, including all trading costs, and optimisation is performed to find the best parameter sets.
 
 The final version of the mean reversion strategy is implemented using:
 
