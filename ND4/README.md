@@ -92,7 +92,7 @@ Koreliacijų matrica pagal dienines strategijų grąžas:
 
 -------------
 ## 4. Creating a multi-instrument portfolio
-This folder contains Python code `Finansinis_intelektas_ND4_E_Vaitkeviciute.ipynb` and data. A portfolio is created from various sources and an understanding of the factors that influence the quality of the portfolio is demonstrated.
+This folder contains Python code Finansinis_intelektas_ND4_E_Vaitkeviciute.ipynb and data. A portfolio is created from various sources and an analysis of the factors that influence the quality of the portfolio is performed.
 
 A function for uploading data (several different financial instruments - 10 different shares):
 
@@ -169,4 +169,4 @@ def calculate_returns(tickers, data)
 returns.corr()
 ```
 
-The plots above and additional ones can be found in the [📁 images](https://github.com/evelinavait/Financial-Intelligence/tree/35496c9675b0c5caa738aada73524e9ae6f6538a/ND4/images) folder.
+The plots above and additional ones are placed in the [📁 images](https://github.com/evelinavait/Financial-Intelligence/tree/35496c9675b0c5caa738aada73524e9ae6f6538a/ND4/images) folder.
