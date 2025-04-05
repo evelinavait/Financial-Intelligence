@@ -89,7 +89,7 @@ Function to calculate the Chaikin Volatility (CV) volatility indicator:
 def chaikin_volatility(df, window=14)
 ```
 
-<img src="https://github.com/evelinavait/Financial-Intelligence/blob/789fee38fdc33c2543fe473a90d04b7bcab4ff89/ND2/images/AAPL_Chaikin_Volatility.png" width="800"/>
+<img src="https://github.com/evelinavait/Financial-Intelligence/blob/493c72a252fd0ab5c51497b833eae75585b38f0b/ND2/images/TESLA_Chaikin_Volatility.png" width="800"/>
 
 ### Mass Index (MI) (variability indicator)
 Function to calculate the Mass Index (MI) variability indicator:
@@ -98,7 +98,7 @@ Function to calculate the Mass Index (MI) variability indicator:
 def mass_index(data, period=25, ema_period=9, high_col='High', low_col='Low')
 ```
 
-<img src="https://github.com/evelinavait/Financial-Intelligence/blob/789fee38fdc33c2543fe473a90d04b7bcab4ff89/ND2/images/AAPL_MI.png" width="800"/>
+<img src="https://github.com/evelinavait/Financial-Intelligence/blob/493c72a252fd0ab5c51497b833eae75585b38f0b/ND2/images/TESLA_MI.png" width="800"/>
 
 ### Money Flow Index
 Function to calculate the Money Flow Index indicator:
@@ -113,5 +113,5 @@ Function used to visualise the Money Flow Index:
 def plot_mfi(data, label)
 ```
 
-<img src="https://github.com/evelinavait/Financial-Intelligence/blob/789fee38fdc33c2543fe473a90d04b7bcab4ff89/ND2/images/AAPL_MFI.png" width="800"/>
+<img src="https://github.com/evelinavait/Financial-Intelligence/blob/493c72a252fd0ab5c51497b833eae75585b38f0b/ND2/images/TESLA_MFI.png" width="800"/>
 
