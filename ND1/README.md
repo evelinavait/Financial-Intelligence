@@ -1,8 +1,9 @@
 # Financial-Intelligence ND1
 [English below]
-## Finansinis intelektas ND1
 
-Šiame aplankale pateikiama Python programinis kodas bei duomenys.
+## 1. Susipažinimas su rinkos duomenimis
+
+Šiame aplankale pateikiama Python programinis kodas bei duomenys. Į Python aplinką užkraunami ir atvaizduojami duomenys, su jais atliekamos elementarios manipuliacijos bei atvaizduojami rezultatai.
 
 Python programiniame kode `Finansinis_intelektas_ND1_E_Vaitkeviciute.ipynb` įgyvendinta:
   
@@ -41,8 +42,9 @@ def generate_data(num_points):
 <img src="https://github.com/user-attachments/assets/7efba5cc-94b5-40c1-bc39-3c284dab1331" width="700"/>
 
 -------------
-## Financial-Intelligence ND1
-This folder contains Python code and data.
+## 1. Getting to know the market data
+
+This folder contains Python code and data. Data is loaded and displayed in the Python environment, basic manipulations are performed on it, and the results are displayed.
 
 The Python code `Finansinis_intelektas_ND1_E_Vaitkeviciute.ipynb` implements:
   
@@ -74,4 +76,3 @@ def generate_data(num_points):
 
 - Sessions are created from minute, tick (E-Mini S&P 500 Mar 24 (ES=F)) data for the period 2024-02-13 - 2024-02-16 ([📁 images](https://github.com/evelinavait/Financial-Intelligence/tree/76480a4fa3dc1609179c899a7eb0b64abf95c1fa/ND1/images) `trading_sessions.png`);
 - From the prices of wheat/corn or similar, it is calculated how prices change over the year (10 years of data are taken, each year is superimposed on the other and the average price change over the year on different days is calculated) ([📁 images](https://github.com/evelinavait/Financial-Intelligence/tree/76480a4fa3dc1609179c899a7eb0b64abf95c1fa/ND1/images) `wheat_futures.png`).
-
